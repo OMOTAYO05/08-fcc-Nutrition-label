@@ -11,7 +11,7 @@ Additional description of the project and its features.
 - HTMl5
   - `div`:is used as container for html tags.
   - `span`:an inline container used to group elements for styling or scripting purposes
-  - `p`: is used to define a paragraph, which is a block-level element that separates text into distinct    sections
+  - `p`: is used to define a paragraph, which is a block-level element that separates text into distinct sections
 - CSS
   - `font-family`: is used to define the typeface that should be applied to text within an element.
   - `font-size`: is used to control the size of text displayed on the web page
@@ -19,7 +19,6 @@ Additional description of the project and its features.
   - `letter-spacing`: is used to adjust the space between characters in text
   - `border`:used to define the outline of an element
   - `width`:
-  
 - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/),
@@ -30,6 +29,7 @@ Additional description of the project and its features.
 [Live Demo Link](https://livedemo.com)
 
 ## Deployment Link
+
 [Deploymen-Link]
 
 ### Development (Running locally)

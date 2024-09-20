@@ -25,7 +25,7 @@ body {
 header h1 {
   text-align: center;
   margin: -4px 0;
-  letter-spacing: 0.15px
+  letter-spacing: 0.15px;
 }
 
 p {
@@ -47,7 +47,8 @@ p {
   height: 10px;
 }
 
-.large, .medium {
+.large,
+.medium {
   background-color: black;
   border: 0;
 }
@@ -59,7 +60,6 @@ p {
 .small-text {
   font-size: 0.85rem;
 }
-
 
 .calories-info {
   display: flex;
