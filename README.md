@@ -1,20 +1,36 @@
-# Project Name
+# Nutrition label
 
-> One paragraph statement about the project.
+> CSS/HTML Nutrition label template used for food labeling.
 
-![screenshot](./app_screenshot.png)
+![08-fcc-Nutrition-Lable](image.png)
 
 Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTMl5
+  - `div`:is used as container for html tags.
+  - `span`:an inline container used to group elements for styling or scripting purposes
+  - `p`: is used to define a paragraph, which is a block-level element that separates text into distinct    sections
+- CSS
+  - `font-family`: is used to define the typeface that should be applied to text within an element.
+  - `font-size`: is used to control the size of text displayed on the web page
+  - `justify-content`: is used to align items along the main axis of their container
+  - `letter-spacing`: is used to adjust the space between characters in text
+  - `border`:used to define the outline of an element
+  - `width`:
+  
+- Linters
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/),
+- Github Action
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
+
+## Deployment Link
+[Deploymen-Link]
 
 ### Development (Running locally)
 
