@@ -1,6 +1,6 @@
 # Nutrition label
 
-> CSS/HTML Nutrition label template used for food labeling.
+> CSS/HTML Nutrition label used for food labeling.
 
 ![08-fcc-Nutrition-Lable](image.png)
 
